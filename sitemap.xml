@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/publications/index.html</loc>
+    <loc>/awards/index.html</loc>
     
-    <lastmod>2020-12-29T06:51:18.014Z</lastmod>
+    <lastmod>2021-01-25T10:21:43.976Z</lastmod>
     
   </url>
   
   <url>
     <loc>/teaching/index.html</loc>
     
-    <lastmod>2019-10-08T06:44:41.000Z</lastmod>
+    <lastmod>2021-01-25T10:20:05.821Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/publications/index.html</loc>
+    
+    <lastmod>2021-01-25T10:12:35.322Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>/hello-world/</loc>
     
     <lastmod>2019-04-24T12:49:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/awards/index.html</loc>
-    
-    <lastmod>2019-04-24T04:01:42.000Z</lastmod>
     
   </url>
   
