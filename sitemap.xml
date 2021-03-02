@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/members/index.html</loc>
+    
+    <lastmod>2021-03-02T09:03:37.087Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/services/index.html</loc>
+    
+    <lastmod>2021-03-02T08:33:51.167Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/awards/index.html</loc>
     
-    <lastmod>2021-01-25T10:21:43.976Z</lastmod>
+    <lastmod>2021-03-02T08:30:02.189Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/publications/index.html</loc>
+    
+    <lastmod>2021-03-02T08:28:15.006Z</lastmod>
     
   </url>
   
@@ -12,13 +33,6 @@
     <loc>/teaching/index.html</loc>
     
     <lastmod>2021-01-25T10:20:05.821Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/publications/index.html</loc>
-    
-    <lastmod>2021-01-25T10:12:35.322Z</lastmod>
     
   </url>
   
@@ -33,20 +47,6 @@
     <loc>/hello-world/</loc>
     
     <lastmod>2019-04-24T12:49:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/members/index.html</loc>
-    
-    <lastmod>2019-04-24T03:27:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/services/index.html</loc>
-    
-    <lastmod>2019-04-23T02:07:56.000Z</lastmod>
     
   </url>
   
